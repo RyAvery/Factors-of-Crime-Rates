@@ -1,5 +1,8 @@
 # Factors of Crime Rates in Seattle
 
+![seattle-travel-poster5-500px](https://user-images.githubusercontent.com/113273722/216746194-5142f928-8187-4192-9c8a-c45d9e850b60.png)
+
+
 ## ***Background***
 
 Seattle, Washington is widely known as The Emerald City hosting an estimated population of 755,000 over 142 sq miles of land. In 2020 Seattle was named the fastest growing city in America! Unfortunately, a large bustling city like Seattle is prone to a variety of crimes. From theft, fraud, property crimes and other various violent crimes, Seattle has seen its fair share of crime. This presentation will provide an overview of crimes that occur in Seattle, as well as an analysis of the crime statistics and trends. It will aim to inform those interested in what factors cause crime in American cities.
@@ -29,13 +32,31 @@ Crimes analysis in Seattle can inform a variety of stakeholders including govern
 
 ## ***Taskes***
 
-***1-*** What are the overall crime trends in seattle ?
+***1- Prepare and clean data***
 
-***2-*** What is the trend of crimes over the five years from 2017 to 2021?
+Clean and prepare the data by handling missing values, outliers, and other anomalies
 
-***3-*** How would a heat map of the crime rate for each zip code appear?
+***2- Generate summary statistics***
 
-***4-*** What are the overall personal crimes for Seattle for data period?
+Use groupby and summary statistical methods to calculate the following properties of the
+mean, median, variance, standard deviation, and SEM of the tumor volume.Group the data by different columns, such as zip code or year,
+to see if there are any patterns or trends in crime rates.
 
-***5-*** What is the correlation between demographic data and crimes data in Seattle?
+***3- Exploratory Data Analysis***
+
+create visualizations to explore the distribution of the columns and relationships between columns.
+For example,pie charts, scatter plots, and bar charts
+
+
+***4- calculate correlation and regression analysis***
+
+To determine the strength and direction of the relationship between columns
+perform a regression analysis
+ 
+
+***5- Generate heatmap***
+
+
+
+
 
